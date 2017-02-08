@@ -14,7 +14,7 @@ public class Calculadora {
 public double suma(double number1, double number2){
 
 return number1 + number2;
-
+int n;
 }
 
 public double resta(double number1, double number2){
